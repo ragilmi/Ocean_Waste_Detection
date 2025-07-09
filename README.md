@@ -93,8 +93,8 @@ These outputs help visualize how well the segmentation overlaps with the detecte
 ---
 
 ## 🖼️ Example Output
-
-![Output Example](Example of Ocean Waste Detected.png)
+The image below shows an example of the system detecting ocean waste, segmenting it using Mask R-CNN, and annotating the percentage of each segmentation mask that overlaps with the corresponding detection box.
+Ocean_Waste_Detected.png
 
 ---
 
