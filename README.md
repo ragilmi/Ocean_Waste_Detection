@@ -92,6 +92,12 @@ These outputs help visualize how well the segmentation overlaps with the detecte
 
 ---
 
+## 🖼️ Example Output
+
+![Output Example](Example of Ocean Waste Detected.png)
+
+---
+
 ## License
 
 This project is licensed under the **MIT License** and may be used freely for academic and research purposes.
