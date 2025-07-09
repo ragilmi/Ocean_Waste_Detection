@@ -7,7 +7,7 @@ This project was developed as part of the **Computer Vision** course at Presiden
 ## 👨‍🏫 Project Information
 
 **Course**: Computer Vision  
-**Institution**: President University  
+**Institution**: President University
 **Semester**: 5
 **Year**: 2025  
 
