@@ -1,14 +1,14 @@
 # Sea Trash Detection and Segmentation
 
-This project was developed as part of the **Computer Vision** course at President University. It combines **YOLOv8** for object detection and **Mask R-CNN** for instance segmentation to analyze images of marine debris. The system identifies and localizes trash objects, segments their contours, and calculates how much of each detected object is covered by a segmentation mask.
+This project was developed as part of the **Computer Vision** course in **Semester 5** at President University. It combines **YOLOv8** for object detection and **Mask R-CNN** for instance segmentation to analyze images of marine debris. The system identifies and localizes trash objects, segments their contours, and calculates how much of each detected object is covered by a segmentation mask.
 
 ---
 
 ## 👨‍🏫 Project Information
 
 **Course**: Computer Vision  
-**Institution**: President University
-**Semester**: 5
+**Semester**: 5  
+**Institution**: President University  
 **Year**: 2025  
 
 **Group Members**:
